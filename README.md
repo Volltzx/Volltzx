@@ -51,14 +51,14 @@ Me chamo Pedro De Lorenzi Dinon, tenho 22 anos. Atualmente, estou cursando Ciên
   <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="180"
       src="https://github-readme-stats.vercel.app/api?username=Volltzx&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volltzx&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
