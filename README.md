@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Dinon
+# Pedro Dinon
 
 **`Desenvolvedor Back-End`**
 
